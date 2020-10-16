@@ -1,0 +1,18 @@
+.container {
+	display: flex;
+	flex: 1;
+	justify-content: center;
+	align-items: center;
+}
+
+.about_me {
+	display: flex;
+	flex: 1;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.about_me__card {
+	width: 25vw;
+}
