@@ -1,11 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 import Home from './pages/Home'
+import Art from './pages/Art'
+import Index from './pages/Index'
 
 export default () => {
   return (
-		<Home/>
+		<div>
+			<Router>
+				<Switch>
+					<Route path='/art'>
+						<Art/>
+					</Route>
+					<Route path='/freelance'>
+						<Home/>
+					</Route>
+					<Route path='/'>
+						<Index/>
+					</Route>
+				</Switch>
+			</Router>
+		</div>
   );
 }
