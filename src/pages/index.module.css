@@ -1,12 +1,25 @@
 .main_container {
-	display: flex;
-	flex-flow: column nowrap;
+	flex: 1;
 	width: 100%;
 }
 
 .title {
-	width: inherit;
-	height: 60vh;
+	display: flex;
+	flex-flow: column wrap;
 	justify-content: center;
 	align-items: center;
+
+	width: inherit;
+	height: 70vh;
+}
+
+.button_list {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.button_link {
+	background-color: darkred;
 }
