@@ -90,7 +90,7 @@ function Conway (props) {
 export default () => {
 	return(
 		<div>
-			<DoomFire width={250} height={250}/>
+			<DoomFire width={100} height={50}/>
 		</div>
 	);
 }
