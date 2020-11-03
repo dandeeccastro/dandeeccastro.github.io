@@ -14,10 +14,10 @@ export default () => {
 				</div>
 			</div>
 			<div className={styles.button_list}>
-				<Button variant="outline-primary">
+				<Button variant="outline-primary" size='lg'>
 					<Link to='/freelance'>Serviços</Link>
 				</Button>
-				<Button variant="outline-primary">
+				<Button variant="outline-primary" size='lg'>
 					<Link to="/art">Arte</Link>
 				</Button>
 			</div>
