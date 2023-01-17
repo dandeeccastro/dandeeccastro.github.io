@@ -70,9 +70,9 @@ Eu sou completamente apaixonado por esse jogo. E eu nunca ganhei uma partida seq
 
 Você e seus amigos são investigadores, cada um com sua trágica história e nobre motivação (ou não), mas todos com um único objetivo: _algo_ surgiu, e precisa ser parado. Cthulu, Azatoth e outros terrores lovecraftianos estão sendo cultuados pelo mundo, e podem surgir a qualquer momento, e é seu dever resolver mistérios pelo mundo e impedir sua ressurreição (ou matá-lo assim que pisar na Terra).
 
-Cada partida envolve uma entidade cósmica diferente, como Cthulu ou Azatoth, cada qual com seu nível de dificuldade atrelado e condições de vitória. Você tem que resolver os mistérios de cada entidade antes que o _contador do fim do mundo_ chegue ao zero. Se ele chegar, pode ser o fim do seu jogo, ou o começo de uma tarefa muito mais árdua que seu grupo terá que resolver. 
+Cada partida envolve uma entidade cósmica diferente, como Cthulu ou Azatoth, cada qual com seu nível de dificuldade atrelado e condições de vitória. Você tem que resolver os mistérios de cada entidade antes que o _contador do fim do mundo_ chegue ao zero. Caso isso aconteça, pode ser o fim do seu jogo, ou o começo de uma tarefa muito mais árdua que seu grupo terá que resolver. 
 
-O jogo é tão grande que é difícil dar o resumo geral dele, então segue abaixo algumas coisas incríveis (ou não) que esse jogo tem:
+O jogo é tão grande que é difícil dar o resumo geral dele, então seguem abaixo algumas coisas incríveis (ou não) que esse jogo tem:
 
 - Seu personagem tem atributos, que determinam suas chances em combates contra monstros ou eventos do outro mundo.
 - Você pode comprar itens para melhorar esses atributos. 
