@@ -11,17 +11,21 @@ Hoje em dia, jogos de tabuleiro estão significativamente diferente do que eram 
 
 # 5. Patchwork
 
-Lembra de Tetris? Imagina isso, só que na sua mesa, competitivo, dois contra dois. E envolvendo colcha de retalhos. Eis Patchwork.
+![Tabuleiro de Patchwork](/assets/patchwork.jpeg)
 
-Você e outra pessoa competem para montar a melhor colcha de retalhos que o mundo já viu (aparentemente). Os dois possuem um tabuleiro 9x9, que devem preencher com pedaços de uma colcha de retalhos que estão cortados na forma de peças de Tetris. Cada peça pode ser comprada com botões, a moeda do jogo, e possuem um custo de tempo associado. Conforme o tempo passa, você ganha mais botões, compra mais peças e por aí vai. O jogo acaba quando o "tempo" acaba e ganha quem fizer mais pontos, que são calculados pela colcha que você montou, quantos buracos ela possui no final e se você conseguiu fazer o grandioso feito de fechar um quadrado 7x7.
+Lembra de Tetris? Imagina isso, só que na sua mesa, competitivo, dois contra dois. E envolvendo colcha de retalhos. Lhes apresento Patchwork.
 
-É um jogo excelente para jogar com outra pessoa se quiser começar a lidar com jogos de tabuleiro modernos. Alguns conceitos legais, como o fato dos turnos de cada jogador não serem sequenciais (ou seja, você não vai logo depois do amiguinho, mas sim quando ele "passar o seu tempo"), ficam fáceis de aprender com esse jogo. Além disso, um jogo competitivo é sempre bom para disputar com seu melhor amigo ou cônjuge.
+Você e outra pessoa competem para montar a melhor colcha de retalhos que o mundo já viu (aparentemente). Os dois possuem um tabuleiro 9x9, que devem preencher com pedaços de uma colcha de retalhos que estão cortados na forma de peças de Tetris. Cada peça pode ser comprada com botões, a moeda do jogo, e possuem um custo de tempo associado. Conforme o tempo passa, você ganha mais botões, compra mais peças e por aí vai. O jogo acaba quando o "tempo" acaba e ganha quem fizer mais pontos, que são calculados pela colcha que você montou, quantos buracos ela possui no final e se você conseguiu fazer o grandioso feito de fechar um quadrado 7x7, é o vencedor!
+
+É um jogo excelente para jogar com outra pessoa se quiser começar a lidar com jogos de tabuleiro modernos. Alguns conceitos legais, como o fato dos turnos de cada jogador não serem sequenciais (ou seja, você não vai logo depois do amiguinho, mas sim quando ele "passar o seu tempo"), ficam fáceis de aprender com esse jogo. E, além disso, quem não gosta de competir um pouquinho com a pessoa que mais gosta?
 
 # 4. Sheriff of Nottingham
 
-Se você gosta de mentir para seus amigos, subornar autoridades e fugir de impostos, esse jogo é para você.
+![Mesa de jogo](/assets/sheriff_of_nottingham.jpg)
 
-Você e mais 5 amigos são todos mercadores, e vivem a vida vendendo pães, galinhas e queijos. Mas, com esses itens, não é possível ter uma vida muito confortável, por isso vocês optam pela alternativa mais lógica para resolver isso: contrabando. Basta botar seus itens na sacola (ocasionalmente adicionando itens valioss mas ilegais aqui e ali) e vendê-los na feirinha para ganhar seu tão merecido ouro, né? Parece simples, se não fosse pelo xerife tentando pegá-lo no ato.
+Se você gosta de mentir para seus amigos, subornar autoridades e fugir de impostos, esse jogo é para você!
+
+Você e mais 5 amigos são todos mercadores, e ganham a vida vendendo pães, galinhas e queijos. Mas, com esses itens, não é possível ter uma vida muito confortável, por isso vocês optam pela alternativa mais lógica para resolver isso: contrabando. Basta botar seus itens na sacola (ocasionalmente adicionando itens valisos mas ilegais aqui e ali) e vendê-los na feirinha para ganhar seu tão merecido ouro, né? Parece simples, se não fosse pelo xerife tentando pegá-lo no ato.
 
 Cada turno um jogador é escolhido como xerife, e não pode vender nada naquele turno. Já os outros jogadores escolhem cartas de seu inventário para botar numa sacola e vender na feirinha. Cada uma dessas sacolas pode ser inspecionada pelo xerife, que pode decidir abri-la para inspecionar se você está contrabandeando ou não:
 
@@ -34,17 +38,21 @@ O segredo? Ninguém disse que você não pode molhar a mão do xerife pra ele de
 
 # 3. Celestia
 
-Os céus são cheios de surpresas. Existem histórias que a cidade das luzes abrirá suas portas para o aventureiro que conseguir passar pelas nuvens tempestuosas, bandidos dos ares e ventos cruéis que assolam o caminho. Os perigos podem ser grandes, mas os tesouros, eles sempre valem a pena.
+![Mesa de jogo de Celestia](/assets/celestia.jpg)
 
-Você e seus amigos são aventureiros tentando chegar na ilha das luzes. Todos dirigem um navio voador, que passará por outras ilhas até chegar na tão desejada cidade. Entre uma travessia ou outra, o capitão do navio da vez jogará dados para decidir seu destino, e usará cartas do seu inventário para lutar contra bandidos, passar por tempestades e encontrar o caminho para a próxima ilha. Assim que chegar, seu título vai para outra pessoa, que herda sua responsabilidade. Quanto mais longe estiver a próxima ilha, mais dados serão jogados, e mais cartas terão que ser gastas para a travessia. Se falhar, o navio cai, e a tripulação retorna para o começo da jornada.
+Os céus são cheios de surpresas. Muitos cresceram com as lendas de que a cidade das luzes abrirá suas portas para o aventureiro que conseguir passar pelas nuvens tempestuosas, bandidos dos ares e ventos cruéis que assolam o caminho. Os perigos podem ser grandes, mas os tesouros, eles sempre valem a pena.
 
-Mas quem quer estar em um navio que vai afundar? Especialmente considerando que as ilhas que paramos podem conter tesouros também?
+Você e seus amigos são aventureiros tentando chegar na ilha das luzes. Todos dirigem um navio voador, que passará por outras ilhas até chegar na tão desejada cidade. Entre uma travessia ou outra, o capitão do navio jogará dados para decidir seu destino, e usará cartas do seu inventário para lutar contra bandidos, passar por tempestades e encontrar o caminho para a próxima ilha. Assim que chegar, seu título vai para outra pessoa, que herda sua responsabilidade. Quanto mais longe estiver a próxima ilha, mais dados serão jogados, e mais cartas terão que ser gastas para a travessia. Se falhar, o navio cai, e a tripulação retorna para o começo da jornada.
+
+Mas, convenhamos, quem quer estar em um navio que vai afundar? Especialmente quando as ilhas pelas quais passamos também possuem seus próprios tesouros?
 
 Cada turno é uma travessia para a ilha sagrada, onde o capitão joga dados para definir a dificuldade da travessia. Depois de jogados, a tripulação pode decidir continuar o caminho com o capitão ou desembarcar e se contentar com tesouros de menor valor. Uma vez definido quem vai e quem fica, o capitão revela se consegue ou não fazer a travessia. Se conseguir, uma nova ilha é alcançada, um novo capitão selecionado e o ciclo se repete. Se falhar, quem desceu do barco pega o tesouro da ilha na qual parou, e quem naufragou volta ao começo só com a promessa de tesouros na próxima jornada.
 
 É um jogo interessante de cooperação moderada, onde, como capitão, você quer convencer sua tripulação a ficar no navio, mesmo que não possua os recursos para a viagem (afinal, melhor puxar todo mundo pro buraco do que perder sozinho). Já como tripulação, seu objetivo é obter o melhor tesouro, seja apostando no capitão da vez e em suas cartas, ou descendo na ilha atual, que rende tesouros menos valiosos. Cada tesouro tem uma pontuação atrelada, e o primeiro a chegar em 120 pontos ganha!
 
 # 2. Pandemic
+
+![Mesa de jogo do Pandemic](/assets/pandemic.webp)
 
 Quem disse que jogos de tabuleiro precisam ser competitivos?
 
@@ -55,6 +63,8 @@ Cada turno você pode percorrer o mapa curando focos da doença, usando suas hab
 É um jogo muito divertido de se jogar com amigos, com dificuldade regulável baseado no tipo e quantidade de cartas no baralho quando o jogo começa, e é inteiramente cooperativo, ou seja, você contra o tabuleiro.
 
 # 1. Eldritch Horror
+
+![Mesa de jogo de Eldritch Horror](/assets/eldritch_horror.jpg)
 
 Eu sou completamente apaixonado por esse jogo. E eu nunca ganhei uma partida sequer dele.
 
