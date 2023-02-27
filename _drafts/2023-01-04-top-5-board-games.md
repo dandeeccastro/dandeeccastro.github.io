@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meu Top 5 Jogos de Tabuleiro"
+subtitle: "Para você dar uma chance ao mundo tabletop"
 ---
 
 # Jogos de tabuleiro são incríveis.

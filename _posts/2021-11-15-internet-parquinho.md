@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "A internet é o novo parquinho"
+title: "A Internet é o novo parquinho"
+subtitle: "E eu não sei se eu gosto disso"
 date: 2021-11-15
 categories: society
 
 # author: Dan
-# description: "O mundo está se conectando pela internet, e com isso ele está se ajeitando às regras dela. A questão que todos querem saber é: o que isso significa para a gente?"
 ---
+
+O mundo está se conectando pela internet, e com isso ele está se ajeitando às regras dela. A questão que todos querem saber é: o que isso significa para a gente?
 
 # Uma imagem em palavras
 
