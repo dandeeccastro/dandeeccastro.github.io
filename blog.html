@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: /blog
+---
+
+<h1>posts recentes</h1>
+<ul>
+    {% for post in site.posts %}
+    <li class="my-4">
+        <p class="my-0"><a href="{{post.url}}">{{post.title}}</a></p>
+        <p class="my-0 text-sm">{{post.subtitle}} ~ ({{ post.date | date: '%d/%m/%Y'}})</p>
+    </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,19 @@
+<html lang="pt" class='dark'>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="/css/output.css" />
+    </head>
+    <body class='bg-gradient-to-b from-black to-orange-900'>
+        <nav class="h-16 flex justify-end items-center">
+            <marquee behavior="" direction="">
+                <a class="mx-2" href="/">home</a>
+                <a class="mx-2" href="/blog">blog</a>
+                <a class="mx-2" href="https://informasus.ufscar.br/distanciamento-social/" target='_blank'>contato</a>
+            </marquee>
+        </nav>
+        <section class="px-8 min-h-screen w-full">{{ content }}</section>
+        {% include footer.html %}
+    </body>
+</html>

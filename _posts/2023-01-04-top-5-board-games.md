@@ -6,7 +6,7 @@ subtitle: "Para você dar uma chance ao mundo tabletop"
 
 # Jogos de tabuleiro são incríveis.
 
-Quando comecei a jogá-los, eu era bem ruim. Sempre conseguia falir no Monopoly, era incapaz de contar cartas em Detetive, e tinha a capacidade estratégica de um recèm-nascido no War. Mas eu continuava amando jogos de tabuleiro, e, conforme fui crescendo, a indústria também.
+Quando comecei a jogá-los, eu era bem ruim. Sempre conseguia falir no Monopoly, era incapaz de contar cartas em Detetive e tinha a capacidade estratégica de um recèm-nascido no War. Mas eu continuava amando jogos de tabuleiro e, conforme fui crescendo, a indústria também.
 
 Hoje em dia, jogos de tabuleiro estão significativamente diferente do que eram anos atrás. Alguns mais complexos, outros mais temáticos, mas todos com novas mecânicas e temas. Aqui vou apresentá-los 5 jogos que moram num lugar especial no meu coração, e que podem acender em você a chama que acenderam em mim quando eu voltei ao hobby que tanto amo.
 
@@ -14,7 +14,7 @@ Hoje em dia, jogos de tabuleiro estão significativamente diferente do que eram 
 
 ![Tabuleiro de Patchwork](/assets/patchwork.jpeg)
 
-Lembra de Tetris? Imagina isso, só que na sua mesa, competitivo, dois contra dois. E envolvendo colcha de retalhos. Lhes apresento Patchwork.
+Lembra do Tetris? Imagina isso, só que na sua mesa; competitivo; dois contra dois. E envolvendo colcha de retalhos. Lhes apresento Patchwork.
 
 Você e outra pessoa competem para montar a melhor colcha de retalhos que o mundo já viu (aparentemente). Os dois possuem um tabuleiro 9x9, que devem preencher com pedaços de uma colcha de retalhos que estão cortados na forma de peças de Tetris. Cada peça pode ser comprada com botões, a moeda do jogo, e possuem um custo de tempo associado. Conforme o tempo passa, você ganha mais botões, compra mais peças e por aí vai. O jogo acaba quando o "tempo" acaba e ganha quem fizer mais pontos, que são calculados pela colcha que você montou, quantos buracos ela possui no final e se você conseguiu fazer o grandioso feito de fechar um quadrado 7x7, é o vencedor!
 

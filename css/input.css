@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply dark:bg-black;
+    }
+
+    p,
+    ul {
+        @apply my-4 text-base dark:text-white;
+    }
+
+    a {
+        @apply text-blue-500 visited:text-orange-500;
+    }
+
+    nav > a {
+        @apply active:bg-orange-500;
+    }
+
+    h1 {
+        @apply text-3xl font-bold dark:text-white;
+    }
+
+    h2 {
+        @apply text-2xl font-bold dark:text-white;
+    }
+
+    h3,
+    h4,
+    h5 {
+        @apply text-xl font-bold dark:text-white;
+    }
+}
+
+/* Code highlighting */
+.highlight pre,
+.highlight .hll {
+    background-color: #404040;
+}
+
+.highlight .g, /* Generic */
+.highlight .k, /* Keyword */
+.highlight .l, /* Literal */
+.highlight .n, /* Name */
+.highlight .o, /* Operator */
+.highlight .x, /* Other */
+.highlight .ld, /* Literal.Date */
+.highlight .ni, /* Name.Entity */
+.highlight .nl, /* Name.Label */
+.highlight .nx, /* Name.Other */
+.highlight .py, /* Name.Property */
+.highlight .p {
+    /* Punctuation */
+    color: #d0d0d0;
+}
+
+.highlight .ge {
+    color: #d0d0d0;
+    font-style: italic;
+} /* Generic.Emph */
+.highlight .gs {
+    color: #d0d0d0;
+    font-weight: bold;
+} /* Generic.Strong */
+
+.highlight .vc, /* Name.Variable.Class */
+.highlight .vg, /* Name.Variable.Global */
+.highlight .vi {
+    color: #40ffff;
+} /* Name.Variable.Instance */
+
+.highlight .sb, /* Literal.String.Backtick */
+.highlight .sc, /* Literal.String.Char */
+.highlight .sd, /* Literal.String.Doc */
+.highlight .s2, /* Literal.String.Double */
+.highlight .se, /* Literal.String.Escape */
+.highlight .sh, /* Literal.String.Heredoc */
+.highlight .si, /* Literal.String.Interpol */
+.highlight .sr, /* Literal.String.Regex */
+.highlight .s1, /* Literal.String.Single */
+.highlight .ss, /* Literal.String.Symbol */
+.highlight .s {
+    color: #ed9d13;
+} /* Literal.String */
+
+.highlight .kc, /* Keyword.Constant */
+.highlight .kd, /* Keyword.Declaration */
+.highlight .kn, /* Keyword.Namespace */
+.highlight .kr, /* Keyword.Reserved */
+.highlight .kt, /* Keyword.Type */
+.highlight .nt, /* Name.Tag */
+.highlight .ow {
+    @apply text-orange-500 font-bold;
+} /* Operator.Word */
+
+.highlight .c, /* Comment */
+.highlight .c1, /* Comment.Single */
+.highlight .cm {
+    @apply text-gray-100 italic;
+} /* Comment.Multiline */
+
+.highlight .m, /* Literal.Number */
+.highlight .mf, /* Literal.Number.Float */
+.highlight .mh, /* Literal.Number.Hex */
+.highlight .mi, /* Literal.Number.Integer */
+.highlight .mo, /* Literal.Number.Oct */
+.highlight .il {
+    @apply text-orange-400;
+} /* Literal.Number.Integer.Long */
+
+.highlight .nd, /* Name.Decorator */
+.highlight .sx {
+    color: #ffa500;
+} /* Literal.String.Other */
+
+.highlight .gd, /* Generic.Deleted */
+.highlight .gr, /* Generic.Error */
+.highlight .gt {
+    color: #d22323;
+} /* Generic.Traceback */
+
+.highlight .nb, /* Name.Builtin */
+.highlight .bp {
+    color: #24909d;
+} /* Name.Builtin.Pseudo */
+
+.highlight .no, /* Name.Constant */
+.highlight .nv {
+    color: #40ffff;
+} /* Name.Variable */
+
+.highlight .na, /* Name.Attribute */
+.highlight .ne {
+    color: #bbbbbb;
+} /* Name.Exception */
+
+.highlight .nc, /* Name.Class */
+.highlight .nn {
+    color: #447fcf;
+    text-decoration: underline;
+} /* Name.Namespace */
+
+.highlight .err {
+    color: #a61717;
+    background-color: #e3d2d2;
+} /* Error */
+.highlight .cp {
+    color: #cd2828;
+    font-weight: bold;
+} /* Comment.Preproc */
+.highlight .cs {
+    color: #e50808;
+    font-weight: bold;
+    background-color: #520000;
+} /* Comment.Special */
+.highlight .gh {
+    color: #ffffff;
+    font-weight: bold;
+} /* Generic.Heading */
+.highlight .gu {
+    color: #ffffff;
+    text-decoration: underline;
+} /* Generic.Subheading */
+.highlight .gi {
+    color: #589819;
+} /* Generic.Inserted */
+.highlight .go {
+    color: #cccccc;
+} /* Generic.Output */
+.highlight .gp {
+    color: #aaaaaa;
+} /* Generic.Prompt */
+.highlight .kp {
+    color: #6ab825;
+} /* Keyword.Pseudo */
+.highlight .nf {
+    color: #447fcf;
+} /* Name.Function */
+.highlight .w {
+    color: #666666;
+} /* Text.Whitespace */
