@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 @layer base {
-    body {
-        @apply dark:bg-black;
+    p,h1,h2,h3,h4,h5,h6,li {
+        @apply dark:text-white text-black;
     }
 
     p,
     ul {
-        @apply my-4 text-lg dark:text-white;
+        @apply my-4 text-base;
     }
 
     a {
@@ -21,17 +21,17 @@
     }
 
     h1 {
-        @apply text-3xl font-bold dark:text-white;
+        @apply text-3xl font-bold;
     }
 
     h2 {
-        @apply text-2xl font-bold dark:text-white;
+        @apply text-2xl font-bold;
     }
 
     h3,
     h4,
     h5 {
-        @apply text-xl font-bold dark:text-white;
+        @apply text-xl font-bold;
     }
 }
 

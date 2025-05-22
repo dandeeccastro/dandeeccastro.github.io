@@ -554,10 +554,15 @@ video {
   display: none;
 }
 
+p,h1,h2,h3,h4,h5,h6,li {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
 @media (prefers-color-scheme: dark) {
-  body {
-    --tw-bg-opacity: 1;
-    background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+  p,h1,h2,h3,h4,h5,h6,li {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
   }
 }
 
@@ -567,14 +572,6 @@ p,
   margin-bottom: 1rem;
   font-size: 1rem;
   line-height: 1.5rem;
-}
-
-@media (prefers-color-scheme: dark) {
-  p,
-    ul {
-    --tw-text-opacity: 1;
-    color: rgb(255 255 255 / var(--tw-text-opacity));
-  }
 }
 
 a {
@@ -597,24 +594,10 @@ h1 {
   font-weight: 700;
 }
 
-@media (prefers-color-scheme: dark) {
-  h1 {
-    --tw-text-opacity: 1;
-    color: rgb(255 255 255 / var(--tw-text-opacity));
-  }
-}
-
 h2 {
   font-size: 1.5rem;
   line-height: 2rem;
   font-weight: 700;
-}
-
-@media (prefers-color-scheme: dark) {
-  h2 {
-    --tw-text-opacity: 1;
-    color: rgb(255 255 255 / var(--tw-text-opacity));
-  }
 }
 
 h3,
@@ -623,15 +606,6 @@ h3,
   font-size: 1.25rem;
   line-height: 1.75rem;
   font-weight: 700;
-}
-
-@media (prefers-color-scheme: dark) {
-  h3,
-    h4,
-    h5 {
-    --tw-text-opacity: 1;
-    color: rgb(255 255 255 / var(--tw-text-opacity));
-  }
 }
 
 .container {
@@ -724,14 +698,14 @@ h3,
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
 
-.from-black {
-  --tw-gradient-from: #000 var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(0 0 0 / 0) var(--tw-gradient-to-position);
+.from-white {
+  --tw-gradient-from: #fff var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(255 255 255 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
-.to-orange-900 {
-  --tw-gradient-to: #7c2d12 var(--tw-gradient-to-position);
+.to-orange-400 {
+  --tw-gradient-to: #fb923c var(--tw-gradient-to-position);
 }
 
 .px-8 {
@@ -956,3 +930,15 @@ h3,
 }
 
 /* Text.Whitespace */
+
+@media (prefers-color-scheme: dark) {
+  .dark\:from-black {
+    --tw-gradient-from: #000 var(--tw-gradient-from-position);
+    --tw-gradient-to: rgb(0 0 0 / 0) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  }
+
+  .dark\:to-orange-900 {
+    --tw-gradient-to: #7c2d12 var(--tw-gradient-to-position);
+  }
+}
