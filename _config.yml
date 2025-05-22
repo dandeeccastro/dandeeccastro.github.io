@@ -37,6 +37,7 @@ github_username:  dandeeccastro
 # remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
+  - jekyll-tailwind
   # - jekyll-remote-theme
 
 # Exclude from processing.
@@ -58,3 +59,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+tailwind:
+  input: css/input.css
+  output: css/output.css
