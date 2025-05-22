@@ -7,7 +7,7 @@ tags: dnd
 
 Minha história com TTRPGs é curiosa. Eu conheci D&D no ensino médio. Não sei exatamente quando, mas imagino que quem me introduziu foi meu amigo que carinhosamente apelidarei de Albino. O conceito de jogo no qual você podia inventar qualquer tipo de personagem e fazer com que ele enfrentasse aventuras num mundo colaborativo me fascinou. Como um escritor de zero livros, era mais um jeito de me expressar artisticamente! 
 
-Infelizmente, nenhum dos meus outros amigos parecia interessado em mestrar, então tentei jogar mestrando eu mesmo um one shot (sem nem saber o que isso significava) com eles meus durante o recreio. Não lembro muito da história, mas lembro do primeiro desafio da sessão: lutar contra uma aranha que apareceu contra eles no meio da floresta.
+Infelizmente, nenhum dos meus outros amigos pareciam interessados em mestrar, então tentei jogar mestrando eu mesmo um one shot (sem nem saber o que isso significava) com eles durante o recreio. Não lembro muito da história, mas lembro do primeiro desafio da sessão: lutar contra uma aranha que apareceu contra eles no meio da floresta.
 
 Foi um TPK. Não encostei no jogo por 10 anos desde então.
 
@@ -17,7 +17,7 @@ Essa mesa merece seu próprio post, afinal, não é todo dia que se vê um **tor
 
 Somente no meu aniversário, num em específico que decidi comemorar com amigos na minha casa, em que uma oportunidade surgiu. Uma mesa de D&D sem muita pretensão, que era para ser um one shot introdutório do sistema, mestrada por nada mais nada menos que Albino!
 
-"Com uma chances dessa você certamente não pensou duas vezes e caiu dentro, né?"
+"Com uma chance dessa você certamente não pensou duas vezes e caiu dentro, né?"
 
 Eu teria caído, se ela tivesse sido oferecida para mim. Eu estava tão ocupado entretendo a galera que veio aqui em casa que eu não estava presente quando essa mesa foi concebida. Só fui descobrir ela meses depois em outro rolê, quando todo mundo estava falando nomes estranhos como "arremessar a Judite" e "Relignadorazerpiushkan" sem nenhum tipo de contexto. Claro, depois que soube que isso estava acontecendo, prontamente implorei pra que me incluíssem. Nem precisei chorar muito!
 
