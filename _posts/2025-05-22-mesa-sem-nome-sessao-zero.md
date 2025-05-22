@@ -69,7 +69,7 @@ Ela já me apresentou essas mesas, tanto na tentativa de me chamar para particip
 
 [Foi aí que ela me apontou para um blog.](https://medium.com/@MaiofRivia){:target="_blank"}
 
-Nele, documentados pela mestra da sessão, haviam registros e histórias dessa mesa, desde a primeira sessão! Além disso, era a primeira mesa da mestra também. A mistura da narração da mesa e os relatos da mestra com as decisões que ela tomou por causa das rolagens foi encantadora. Foi como abrir uma janela para o mundo de mestrar, numa perspectiva que eu conseguia compreender muito bem.
+Nele, documentados pela mestra da sessão, havia registros e histórias dessa mesa, desde a primeira sessão! Além disso, era a primeira mesa da mestra também. A mistura da narração da mesa e os relatos da mestra com as decisões que ela tomou por causa das rolagens foi encantadora. Foi como abrir uma janela para o mundo de mestrar, numa perspectiva que eu conseguia compreender muito bem.
 
 Não teve jeito.
 
@@ -81,4 +81,4 @@ Obrigado Mylena, que nem me conhece direito, por me inspirar ao ponto de escreve
 
 E obrigado à galera que decidiu participar do caos que vai ser essa campanha.
 
-Que as histórias de Aubrey, Gepeto, Jorc, Lillian, Lari e Teclis sirvam de inspiração a autores, mestres e criativos como eu.
+Que as histórias de Aubrey, Gepeto, Jorc, Lillian, Lari e Teclis sirvam de inspiração a autores, mestres e criativos como eu. Sejam cringe. Ganhem desvantagem por causa disso. Tá tudo bem.
