@@ -9,7 +9,7 @@
 
     p,
     ul {
-        @apply my-4 text-base dark:text-white;
+        @apply my-4 text-lg dark:text-white;
     }
 
     a {
