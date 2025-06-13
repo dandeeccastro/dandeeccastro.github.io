@@ -13,7 +13,7 @@ tags: dnd
 
 **Jorc Soares**, nosso ilustre bardo, membro da **S**ociedade de **B**ardos **T**averneiros, vinha de um caminho diferente mas para o mesmo destino. Como todo bom bardo, procurava boas histórias e inspirações para compor. Boêmio nato, tinha um objetivo em mente chegando em Elphora: a taverna.
 
-**Gepeto**, um guerreiro warforged, nem se lembra da chuva de meteoros, muito menso de como chegou em Elphora. Sua única preocupação como construto com muito tempo de estrada é recuperar as memórias que o tempo levou e responder a pergunta que o atormenta desde então: quem é seu mestre?
+**Gepeto**, um guerreiro warforged, nem se lembra da chuva de meteoros, muito menos de como chegou em Elphora. Sua única preocupação como construto com muito tempo de estrada é recuperar as memórias que o tempo levou e responder a pergunta que o atormenta desde então: quem é seu mestre? Quem ele deve proteger?
 
 **Teclis**, o mago drow do grupo, como todo bom acadêmico, procura conhecimento. Artefatos mágicos não documentados, magias arcanas apagados pelo tempo e outras quinquilharias com magia por trás. Talvez Elphora, com sua variedade cultural, consiga oferecer o que ele procura...
 
@@ -29,9 +29,11 @@ A maior taverna da cidade, lugar onde viajantes podem recuperar suas energias e,
 
 Coincidentemente, todo mundo estava nessa taverna ao mesmo tempo! Que doideira, né?
 
-Cada um fazia sua própria coisa: Lillian e Jorc pareciam apreciar o ambiente, Aubrey e Teclis os seus livros e Gepeto o seu novo trabalho de garçom. Bom, apreciar seria um eufemismo pra ele. 
+Cada um fazia sua própria coisa: Lillian e Jorc pareciam apreciar o ambiente, Aubrey e Teclis os seus livros e Gepeto o seu novo trabalho de garçom. 
 
-Com a habilidade de um iniciante, ele conseguiu entregar todas as bebidas e comidas em tempo recorde. Nenhuma delas corretamente, o que enlouquecia Alphonse, dono da taverna e seu contratante, mas ainda assim, um recorde!
+Bom, "apreciar" definitivamente não era a palavra certa. 
+
+Com a destreza de um novato, ele conseguiu entregar todas as bebidas e comidas em tempo recorde. Nenhuma delas corretamente, claro, o que enlouquecia **Alphonse**, dono da taverna e seu contratante, mas ainda assim, um recorde!
 
 Lari escaneava a taverna com os olhos, à procura de pessoas que pudesse contratar para uma aventura. Não tinha pressa, pois sabia que era importante escolher as pessoas certas. Quem não parecia ter essa preocupação era sua companheira de viagem, Andrômeda, que foi na mesa de cada um dos que ela considerava aptos e... os encarou.
 
@@ -53,4 +55,51 @@ Como um presente de partida, Gideon deu uma dica para nossos amigos: "vocês tem
 
 Que cara legal com um genuíno desejo de ajudar sem segundas intenções! Espero que ele apareça mais!
 
+Dinheiro pode ser bom, mas não era o suficiente para convencer nossa dupla de trevosos a dar uma chance para a clériga com bolsos aparentemente fartos. Teclis, no entanto, percebeu um possível ponto de interesse que mudou tudo: a menina que o tinha encarado alguns minutos antes parecia ser uma fonte natural.
 
+Sentindo que aquilo podia ser o começo de uma grande descoberta na sua vida de mago, ele decidiu dar uma chance à Lari e pelo menos ouvir o que ela tinha em mente.
+
+Agora todos juntos, Lari revelou suas verdadeiras intenções (ou será que não?):
+
+# O plano
+
+Ela tinha que levar Andrômeda ao topo da *Montanha Skybridge*, uma montanha a um dia de distância a pé de Elphora. Tinham que chegar com ela ao topo e pronto. Receberiam 50 moedas de ouro cada pelo seu serviço.
+
+Por que tinham que levar uma criança pra lá? Não sei, Lari não mencionou pro grupo. Muitos nem quiseram saber! Cinquenta moedas são cinquenta moedas.
+
+Depois de alguma deliberação, missão aceita! Tinham um dia para se preparar, então foram para um segundo ponto de interesse da campanha...
+
+# Mercadão de Elphora
+
+Num lugar onde há tanta confluência de pessoas e mercadorias, é de se esperar que haja um mercado minimamente interessante. E tinha sim, mas talvez nem tanto para aventureiros...
+
+*Ou será que não?*
+
+(Eu amo essa cena de Padrinhos Mágicos, não tem jeito)
+
+Nossa party se separou aqui, com grupos separados investigando coisas diferentes: 
+
+Jorc, interessado na chuva de meteoros e seu significado, perguntou para um grupo de senhoras o que elas achavam sobre o fenômeno. Ouviu uma míriade de histórias e significados, mas o ponto em comum entre elas? **Os meteoros pareciam ter vindo de Skybridge...**
+
+Lari tentava controlar o ânimo de uma Andrômeda na sua primeira vez numa cidade tão grande quanto Elphora. Ela se aproximou de uma loja onde conseguiu ver uma pelúcia de Owlbear ao lado de um homem com cara de despreocupado. Depois de indagarem, para a infelicidade da criânca (e alívio da cuidadora?), descobriram que não estava à venda.
+
+Teclis e Aubrey encontraram o mesmo homem da pelúcia, mas tinham os olhos em outro artefato: um livro interessante com aspecto mágico. Segundo o lojista, o livro era da longínqua época de aventureiro dele.
+
+Ele recebeu "de presente" da amiga ladina dele que diz que "achou por aí".
+
+O lojista parecia determinado a retorná-lo ao seu dono original (um tal de Blackroom? Blackcastle? Ele não lembra). Teclis, com uma *excelente rolada de persuasão*, convenceu o lojista a dar o livro para ele, porque seu coração não o deixaria passar ali sem ajudar um amigo. Ele **tinha** que fazer alguma coisa.
+
+E foi com Teclis abrindo esse livro que **encerramos a sessão**!
+
+# Conclusão
+
+Para uma primeira sessão de uma primeira campanha, foi uma empreitada bem sucedida! Me preparei muito mais do que deveria (em retrospecto, preparei conteúdo pra três sessões) e o improviso, quando necessário, saiu bem natural.
+
+Ficou um post maior do que os outros porque o mestre aqui, na sua infinita sabedoria, não apresentou os personagens na sessão zero. Podem esperar posts menores no futuro.
+
+Se tem uma coisa que posso dizer sobre o que aprendi sobre preparação pra mesas de D&D é: 
+- Tenham pelo menos a motivação e objetivo de NPCs em mente que o roleplay vai ser mais natural do que você imagina. 
+- Os jogadores fazem muito do mundo, então conheça o que faz eles curtirem a mesa e vai incentivando que a magia acontece.
+- Só começa e vai ajustando depois. Essa mesa não teria saído se eu tivesse decidido me preparar 100%. Não existe 100%.
+
+Mas é isso gente, fiquem de olho para o próximo post que muita coisa legal vai acontecer!
