@@ -5,7 +5,7 @@ subtitle: "Não é só de fofoca que vive um fofoqueiro, muito menos de moeda um
 tags: dnd
 ---
 
-Bem vindos de volta pro diário da segunda sessão da nossa mesa! Foi uma semana de poucos acontecimentos grandes, mas de vários pequenos acontecimentos importantes! 
+Bem vindos de volta pro diário da segunda sessão da nossa mesa! Foi uma semana de poucos acontecimentos grandes, mas de vários pequenos acontecimentos importantes!
 
 O que será que os outros membros da party estavam fazendo? O que tinha no livro do Teclis? As respostas da pergunta, claro, estão no...
 
@@ -19,13 +19,13 @@ No joelho, você se pergunta? Não, na perna mesmo. O que seria perfeitamente ok
 
 Bom, agora com uma perna de pau no lugar, ele não é mais um aventureiro. Está se desfazendo das agora antiguidades da sua vida de aventuras e... bom, depois ele não sabe, mas ele vai dar um jeito.
 
-Lillian estava agora num dilema. 
+Lillian estava agora num dilema.
 
-Ela achou o Clayton legal. 
+Ela achou o Clayton legal.
 
 Como que ela pode roubar um cara legal?!
 
-O que facilitou a decisão dela de não roubar Clayton é que, bom, as coisas deles não eram tão legais assim: ele tinha uma mochila velha, uma espada mais velha ainda e cinco frascos de poção vazios, mas resistentes. 
+O que facilitou a decisão dela de não roubar Clayton é que, bom, as coisas deles não eram tão legais assim: ele tinha uma mochila velha, uma espada mais velha ainda e cinco frascos de poção vazios, mas resistentes.
 
 Enquanto conversavam, outra pessoa juntou-se para observar a situação. Um velho amigo de todo mundo. No caso meu. Eu amo esse NPC e não vou negar.
 
@@ -41,7 +41,7 @@ Antes que ele sequer pudesse dizer o que queria com ela, foi prontamente cortado
 
 Fez até questão de mostrar pra ela que roubara um dos frascos do Clayton! Que larápio!
 
-Depois de ignorar a cena que o Gideon fez (Clayton aparentemente não se importava de ser roubado, afinal queria se livrar das coisas velhas mesmo!), Lillian abriu o jogo, dizendo que estavam ajudando uma moça a levar uma criança pra um lugar. 
+Depois de ignorar a cena que o Gideon fez (Clayton aparentemente não se importava de ser roubado, afinal queria se livrar das coisas velhas mesmo!), Lillian abriu o jogo, dizendo que estavam ajudando uma moça a levar uma criança pra um lugar.
 
 Foi esse momento que deixou nosso lojista matutando, fazendo as conexões alá Nazaré Tedesco tomar uma decisão. Queria ver a criança que estava levando, pois tinha algo para dar pra ela pessoalmente.
 
@@ -97,4 +97,48 @@ As amenidades terminaram no momento que Clayton pôs os olhos em Andrômeda. O r
 
 Ele se agachou e estendeu a pelúcia de owlbear para a garota. Lari se pôs entre os dois, mas, percebendo que ele não era uma ameaça pra ela, deixou que ela pegasse o brinquedo.
 
-Andrômeda 
+Andrômeda até duvidou que fosse pra ela, mas depois de constatar que era real, ela virou a garota mais feliz do mundo. Enquanto brincava com o novo melhor amigo, Clayton se aproximou de Lari e perguntou se poderiam conversar em privado. Lari, relutante, concordou.
+
+Os dois foram para um canto recluso onde eles poderiam ter privacidade (não impediu Lillian de tentar ouvir o que estavam conversando! O que impediu mesmo foram os dados...). Clayton foi bem direto com sua pergunta.
+
+"Vocês duas são de Deiros, correto? Estão em peregrinação para a montanha?"
+
+Lari confirmou.
+
+"Se puderem esperar mais um dia, a vista de Skybridge é ótima. Acho que faria bem para ela antes de... bom, fica a seu critério."
+
+Lari anotou a sugestão mentalmente.
+
+Clayton se despediu dela e depois do grupo. Fez seu caminho de volta para sua lojinha, dando para Lillian alguns frascos dele como tinham combinado. E foi assim que eles terminaram suas compras e, em procura por uma estalagem para ficarem, pararam na...
+
+# Taverna de Elphora? De novo??
+
+É um lugar multi uso, minha gente! No turno da noite, porém, as coisas mudam, pois está na gerência da esposa de Alphonse, uma anã chamada Erika. Vendo que novos clientes entravam no estabelecimento, Erika não perdeu tempo e começou a oferecer quartos para todo mundo!
+
+E foi aí que aconteceu meu primeiro grande erro como GM.
+
+Eu gosto de pensar que sou um escritor. Não tenho nenhum livro no meu nome, mas eu sou uma pessoa que sabe trabalhar personagens e tramas. Roleplay e worldbuilding é comigo mesmo.
+
+Agora me bota pra trabalhar a economia de um mundo fantástico e eu caio que nem castelo de cartas em terremoto.
+
+O preço da estadia, segundo Erika, era cinco moedas de prata. Até aí tudo bem. O problema foi quando Lillian perguntou quanto era a janta, porque ela queria comer um pouquinho ainda.
+
+Cinco moedas de prata também. Mosquei legal.
+
+Lillian aceitou o preço, embora extremamente frustrada, enquanto o resto foi dormir. No dia seguinte, preparando-se para sairem de Elphora em direção à Skybridge, nossos heróis foram comprar rações para ter o que comer durante a caminhada.
+
+Cinco moedas de prata. Pois é.
+
+Se eu tivesse uma moeda pra cada vez que algo custasse cinco moedas de prata, eu teria três, o que não é muito, mas é estranho que aconteceu tantas vezes e com tantas coisas diferentes. Imagina uma diária custar o mesmo que um café da manhã!
+
+Lillian, ladina nata, aproveitou enquanto Aubrey pechinchava com Alphonse para executar sua vingança. Enquanto Alphonse foi perguntar para Erika quanto que custava (eu precisava comprar tempo pra pensar ok?), ela foi direto na dispensa e surrupiou cinco rações e sete pães. Aubrey, honesto porém frustrado, pagou duas moedas de ouro por quatro rações.
+
+Agora equipados e descansados, tinham uma longa estrada pela frente... **que ficaria para a próxima sessão**!
+
+# Conclusão
+
+Não tem como estar pronto pra tudo numa sessão de RPG, mas o importante é preparar o básico. Nessa sessão aprendi que preços também contam como o básico. D&D é um jogo antes de ser uma narrativa, então os elementos de gameplay, incluindo economia, tem que estar afiados.
+
+Fica a dica: não façam o preço de uma diária o mesmo de uma janta. Vão achar que sua taverna é uma espelunca, e não estarão errados!
+
+Obrigado a todo mundo que leu até aqui! Estou escrevendo esses posts algumas semanas depois de suas respectivas sessões, então ainda virão mais alguns bem rápido. Quando os posts estiverem no mesmo ritmo das sessões, esperem atualizações semanais!
