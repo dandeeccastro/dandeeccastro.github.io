@@ -11,7 +11,7 @@ Como dito no primeiro post dessa série, a primeira mesa que eu participei de D&
 
 Em compensação, só poderia ser usado um spell por turno. Se você usou Silvery Barbs como reação para alguma coisa, sua ação tem que ser algum ataque, por exemplo. Isso simplifica as coisas quando se é iniciante.
 
-Mas agora eu sou um mestre. Numa mesa com seis jogadores que não são iniciantes.
+Mas agora eu sou um mestre. Numa mesa com seis jogadores que não são iniciantes, que concordaram comigo em jogar D&D com todas as regras que tem direito.
 
 # Excesso de preparação
 
@@ -23,3 +23,25 @@ Mas como eu vou saber se eu não tô pesando a mão? Eu sei que CR é uma ferram
 
 - [Kobold Fight Club](https://koboldplus.club){:target='_blank'} é um criador de encontros com calculador de CR que permite você colocar o nível da party e ele sugere encontros balanceados.
 - [Improved Initiative](https://improvedinitiative.app/){:target='_blank'} é um gerenciador de combate que já inclui a ficha dos monstros do Monster Manual do 5e. 
+
+Tendo esses sites em mãos, eu fiz algo que se pode considerar... psicótico? Não sei. Criei um encontro com alguns bandidos e um capitão bandido. Segundo o mano Kobold, era um encontro moderado para difícil. Depois, botei as fichas deles e a da minha party inteira no Improved.
+
+Com isso tudo em mãos, eu joguei o combate umas duas vezes controlando todo mundo pra ver se a party tinha chances.
+
+Quase fiz o Aubrey e a Lillian morrerem.
+
+Talvez eu não seja um jogador de D&D tão bom assim. Independentemente, me dei por satisfeito com o resultado. Eles conseguiam sobreviver! O que podia dar errado?
+
+Até que eu recebo uma DM 
+
+Uma única DM que muda tudo. Um player com um sonho que eu não tenho coragem de negar.
+
+Minha preparação? Não importa. Os testes que eu fiz? Irrelevantes. 
+
+As chances da party de sobreviver o combate?
+
+Você vai ter que descobrir por você mesmo! Bem vindo à...
+
+# Estrada para Skybridge
+
+É uma estrada de pedra cercada de grama pelos lados, com algumas árvores altas espalhadas decorando o ambiente. Como era manhã, eles 
