@@ -43,7 +43,7 @@ Fez até questão de mostrar pra ela que roubara um dos frascos do Clayton! Que 
 
 Depois de ignorar a cena que o Gideon fez (Clayton aparentemente não se importava de ser roubado, afinal queria se livrar das coisas velhas mesmo!), Lillian abriu o jogo, dizendo que estavam ajudando uma moça a levar uma criança pra um lugar.
 
-Foi esse momento que deixou nosso lojista matutando, fazendo as conexões alá Nazaré Tedesco tomar uma decisão. Queria ver a criança que estava levando, pois tinha algo para dar pra ela pessoalmente.
+Foi esse momento que deixou nosso lojista matutando, fazendo as conexões alá Nazaré Tedesco até tomar uma decisão. Queria ver a criança que estava levando, pois tinha algo para dar pra ela pessoalmente.
 
 Lillian deixou bem claro que poderia levar para a criança, mas Clayton insistiu mais que queria ir pessoalmente. Ele arrumou a mochila com a proeficiência de um ex-aventureiro e lá foram eles procurando pela Lari.
 
@@ -65,7 +65,7 @@ Sabe quando você aprende Pitágoras e fica "Nossa, mas quando que eu vou usar i
 
 Juro que vai fazer sentido!
 
-O livro estava sobre uma magia de cifra, das quais existem dois tipos: ou você precisa de uma sequência de palavras para desfazer o efeito ou é necessário uma aplicação adicional da mana de quem cifrou o tomo.
+O livro estava sobre uma magia de cifra, das quais existem dois tipos: ou você precisa somente de uma sequência de palavras para desfazer o efeito ou é necessário também uma aplicação da mana de quem cifrou o tomo.
 
 A primeira magia é comumente utilizada para comunicação entre reinos, onde uma sequência é combinada previamente pelos dois lados e a comunicação cifrada é possível sem a interferência de um mago. Na segunda, embora mais segura, costuma ser de uso mais pessoal, porque é necesário que o usuário original desfaça o feitiço. Claro, não é impossível de quebrar, mas é bem difícil.
 
@@ -142,3 +142,5 @@ Não tem como estar pronto pra tudo numa sessão de RPG, mas o importante é pre
 Fica a dica: não façam o preço de uma diária o mesmo de uma janta. Vão achar que sua taverna é uma espelunca, e não estarão errados!
 
 Obrigado a todo mundo que leu até aqui! Estou escrevendo esses posts algumas semanas depois de suas respectivas sessões, então ainda virão mais alguns bem rápido. Quando os posts estiverem no mesmo ritmo das sessões, esperem atualizações semanais!
+
+Mas por enquanto, esperem coisas emocionantes para a próxima sessão...
