@@ -43,7 +43,7 @@ Depois da encarada sincera sem nenhuma segunda intenção, Andrômeda retorna pa
 
 Lari tentou seu melhor pra quebrar o gelo com esses estrangeiros estranhos e convidou a galera pra jogar cartas. Nossos dois leitores trevosos negaram na cara dura, o que foi lindo. Também foi bem à carater: o que duas pessoas inclinadas aos estudos vão querer com um jogo de cartas?
 
-Com os grupos separados entre leitores e jogadores, vi uma oportunidade pra introduzir outro camarada importante para capítulos futuros. Vendo dois desocupados sentados sozinhos, ele viu a oportunidade perfeita para... criar contatos.
+Enquanto alguns jogadores rolavam dados para tentar roubar de criança em jogo de carta (olhando para você, Lillian), vi uma oportunidade nos que decidiram ficar sozinhos pra introduzir outro camarada importante para capítulos futuros. Vendo dois desocupados sentados sozinhos, ele viu a oportunidade perfeita para... criar contatos.
 
 Um genasi de fogo chamado Gideon [(qualquer semelhança é mera coincidência)](https://www.youtube.com/shorts/Jpo1Uh1uZCU){:target='_blank'} bateu um papo com a galera dos livros, perguntando se estavam interessados em emprego. Sabe, ele tem um "serviço" que ele oferece para comerciantes ambulantes que não querem passar pela burocracia de Elphora. É uma "escolta" ao redor da cidade, que evita a papelada e protege contra "perigos".
 
@@ -55,7 +55,7 @@ Como um presente de partida, Gideon deu uma dica para nossos amigos: "vocês tem
 
 Que cara legal com um genuíno desejo de ajudar sem segundas intenções! Espero que ele apareça mais!
 
-Dinheiro pode ser bom, mas não era o suficiente para convencer nossa dupla de trevosos a dar uma chance para a clériga com bolsos aparentemente fartos. Teclis, no entanto, percebeu um possível ponto de interesse que mudou tudo: a menina que o tinha encarado alguns minutos antes parecia ser uma fonte natural.
+Dinheiro pode ser bom, mas não era o suficiente para convencer nossa dupla de trevosos a dar uma chance para a clériga com bolsos aparentemente fartos. Teclis, no entanto, percebeu um possível ponto de interesse que mudou tudo: a menina que o tinha encarado alguns minutos antes parecia ser uma fonte natural de magia.
 
 Sentindo que aquilo podia ser o começo de uma grande descoberta na sua vida de mago, ele decidiu dar uma chance à Lari e pelo menos ouvir o que ela tinha em mente.
 
