@@ -137,7 +137,7 @@ Foi aí que eu errei: pedi para meus jogadores para a gente estender um pouco ma
 
 Eles concordaram, mas uma lição importante de vida é que horários não envolvem somente você, mas as pessoas ao seu redor. Jantar com a família, cônjuge reclamando que a sessão demorava e outros eventos do tipo começaram a acontecer com nossos players, e um a um eles se viram forçados a sair.
 
-Fiquei pressionado. Era uma sessão importante e tinha pouca gente agora. Personagens que tinham informações importantes para adicionar na interação não estavam mais presentes. Decidi acelerar a narração, com medo de que mais pessoas saíssem, mas por ser uma cena de informações importantes, quem ficou até o final acabou mais confuso do que qualquer coisa.
+Me senti pressionado. Era uma sessão importante e tinha pouca gente agora. Personagens que tinham informações importantes para adicionar na interação não estavam mais presentes. Decidi acelerar a narração, com medo de que mais pessoas saíssem, mas por ser uma cena de informações importantes, quem ficou até o final acabou mais confuso do que qualquer coisa.
 
 Confesso que foi uma sessão bastante frustrante. Embora tenha tido ótimos momentos, o final foi decepcionante e meu plot hook foi completamente ineficiente com os poucos que ficaram.
 
@@ -147,7 +147,7 @@ Segundo, não iria relatar a cena que saiu errado nesse post. Não quero confund
 
 # Conclusão
 
-Para os GMs de plantão, tomem o tempo que precisarem e não tenham medo de refazer se necessário. É um jogo entre amigos, não uma cena milionária que precisa ser num take só para que dê certo. Não ponha mais pressão em si mesmo do que o necessário.
+Para os GMs de plantão, tomem o tempo que precisarem e não tenham medo de refazer se necessário. É um jogo entre amigos, não uma cena de filme com produção milionária que precisa ser num take só para que dê certo. Não ponha mais pressão em si mesmo do que o necessário.
 
 Mestrar é pra ser divertido pra você também! Você faz parte do jogo, criatura de Deus.
 
