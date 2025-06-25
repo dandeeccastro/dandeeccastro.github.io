@@ -145,9 +145,11 @@ Depois de um tempo por essa estrada, da terra ela vira para a direita e segue po
 
 As portas duplas se abrem e Lari retorna à realidade.
 
+Como um bom membro da party, Lari compartilhou com todos o que aconteceu. Durante sua recontagem, lembrou (com uma boa rolagem de religião) de um detalhe: a igreja parecia ser de uma deusa chamada Hedone. Era um culto relativamente "good vibes", 
+
 - [x] Flyan fala que um ano se passou
-- [ ] Estabelecemos que Teclis é velho
-- [ ] Eles usam a carta dos tolos e descobrem que tá no templo esquecido de Hedone em Elphora
+- [x] Estabelecemos que Teclis é velho
+- [x] Eles usam a carta dos tolos e descobrem que tá no templo esquecido de Hedone em Elphora
 
 # Retorno para Elphora
 
