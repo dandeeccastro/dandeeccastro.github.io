@@ -65,7 +65,7 @@ Andrômeda não morreria. Ela deixaria de existir como uma pessoa só. Ela se ju
 
 A ideia de Andrômeda desaparecendo não parecia agradar muito a party, mas não tinham muito o que fazer com a informação. Era parte do dever de Lari servir à Aureus e, vale salientar, lutar com uma deusa no nível dois não me parece sensato.
 
-*"Tudo isso é muito legal"* você ouve em sua mente, porque está lendo isso e reproduzindo o texto em sua mente. *"Mas então por que que Aureus precisa da ajuda de mortais?"*
+*"Tudo isso é muito legal"* você ouve em sua mente, porque está lendo isso e reproduzindo mentalmente com a sua voz interna. *"Mas então por que que Aureus precisa da ajuda de mortais?"*
 
 Lembra da chuva de meteoros? Segundo os relatos de Jorc, vinte meteoros desceram dos céus diretamente de Skybridge. Logo depois, foi dada a missão para Lari de escoltar Andrômeda.
 
@@ -145,13 +145,40 @@ Depois de um tempo por essa estrada, da terra ela vira para a direita e segue po
 
 As portas duplas se abrem e Lari retorna à realidade.
 
-Como um bom membro da party, Lari compartilhou com todos o que aconteceu. Durante sua recontagem, lembrou (com uma boa rolagem de religião) de um detalhe: a igreja parecia ser de uma deusa chamada Hedone. Era um culto relativamente "good vibes", 
+Como um bom membro da party, Lari compartilhou com todos o que aconteceu. Durante sua recontagem, lembrou (com uma boa rolagem de religião) de um detalhe: a igreja parecia ser de uma deusa chamada Hedone. Era um culto relativamente "good vibes", que existia perto de Deiros mas nunca dava muito problema com os seguidores de Aureus.
 
-- [x] Flyan fala que um ano se passou
-- [x] Estabelecemos que Teclis é velho
-- [x] Eles usam a carta dos tolos e descobrem que tá no templo esquecido de Hedone em Elphora
+Um adendo: meus jogadores instantaneamente começaram conversas sobre "primeira missão do GM já é num cabaré, tô vendo...". Absoluta mentira, jamais faria isso!
+
+Bom, se os seguidores de Hedone estavam por trás de alguma coisa, então certamente algo tinha mudado. Só tinha um jeito de descobrir...
 
 # Retorno para Elphora
 
-- [ ] Conversam com os migrantes e descobrem o plot do cabaré
-- [ ] Lillian tenta roubar um casal e falha, toma gritão de PEGA LADRAO e acabamos na fuga
+Voltamos para a estrada onde o combate na terceira sessão aconteceu! Dessa vez o cenário era bem diferente: a estrada estava lotada de pessoas indo em direção à Elphora. O grupo notou uma quantidade curiosa tanto de viajantes iniciantes quanto de casais.
+
+Os rumores de cabaré se intensificaram. Muito rude!
+
+Lillian foi empurrada pela party para conversar com um dos casais que estava lá para descobrir o que estava acontecendo. Aproximou-se de um casal de anões que estava por perto e começou o papo.
+
+Primeiro que o casal olhou um grupo de seis pessoas e já deu uma estranhada sem nenhum motivo aparente. Porém, o papo seguiu normalmente: segundo eles, a igreja de Hedone estava numa época de ressurreiçãoe atraindo muitos fiéis novos!
+
+Os ensinamentos da igreja? Por algum motivo, o casal não foi muito direto no ponto do que exatamente os pregadores do culto ensinavam. Pareciam meio constrangidos...
+
+Os rumores de cabaré estavam ganhando muita força. Não sei por que.
+
+Lillian estava satisfeita com o papo, mas ela ainda tinha mãos muito leves que ficaram um ano sem fazer nenhuma muquiranagem... foi aí que ela decidiu rolar Sleight of Hand para tentar roubar alguma coisa legal do casal. Dei dificuldade 15 para que conseguisse fazê-lo.
+
+Ela rolou um sólido 14.
+
+*"O que você está fazendo?! PEGA LADRÃO"*
+
+Um grupo de mais ou menos cinquenta pessoas se virou em direção aos nossos heróis. Como esperado, foi um pernas pra que te quero em direção à Elphora, **marcando o fim da sessão**!
+
+# Conclusão
+
+Retcons são bons, não saõ?
+
+Foi uma sessão muito divertida, pra ser sincero. Tive que cortar alguns detalhes de lore porque já teve um dump imenso da Aureus e eu ainda tenho que preparar pra semana que vem. Dito isso, estou feliz: consegui dar meus itens homebrew pros players e introduzir o sucesso com o plot do Tarôt. Agora a mesa tem um nome! Eu acho. Ela pode ter um nome, pelo menos.
+
+Qual poderia ser o nome? Ordem de Marseille parte 2? Os tarôzeiros? Os tolos? Não sei. Deixem nos comentários e até a próxima sessão! 
+
+*Diz ele, sabendo muito bem que não tem comentários nesse blog (um dia eu conserto isso).*
