@@ -9,7 +9,7 @@ subtitle: Pra que tomar exposed se eu posso ter um blog?
 Desenvolvedor web nas horas pagas e vítima de uma terrível doença conhecida como _acumulador de interesses_. Meus sintomas você pode encontrar abaixo:
 
 - Participei de um grupo de segurança da informação na faculdade
-- Escrevo ficção e estou trabalhando em um livro (30k palavras e subindo!)
+- Escrevo ficção e estou trabalhando em um livro *(30k palavras e subindo!)*
 - Aprendendo a tocar teclado de forma autodidata e ineficiente
 - Já fiz um cartola de lolzinho que rodou por um split
 - Estou no processo de platinar Sifu e minhas mãos doem
@@ -18,4 +18,7 @@ Se algumas dessas coisas acima te interessam, talvez o [meu blog de procedência
 
 # contato
 
+Enquanto o [blog](/blog) não tem comentário ainda, vocẽ pode me xingar por aqui:
+
+- dundeepessoal *(arroba)* gmail *(ponto)* com
 - [Github](https://github.com/dandeeccastro){:target='_blank'}
