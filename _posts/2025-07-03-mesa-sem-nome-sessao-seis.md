@@ -37,7 +37,7 @@ Uma muralha grande dividia o que era Elphora do que eram seus arredores. Guardas
 
 Além desses comerciantes, haviam algumas pessoas de aparência *duvidosa* (usei as mesmas fichas dos bandidos que atacaram eles na sessão quatro) pelos arredores, sem nenhum motivo aparente para estar lá.
 
-Também tinha uma loira misteriosa perto da porta, que parecia ficar de olho na movimentação ao redor, do meso jeito que nossos amigos duvidosos. Naturalmente, uma pessoa com segredos e segundas intenções, que deve ser aproximada com bastante cautela e sem revelar suas verdadeiras intenções.
+Também tinha uma loira misteriosa perto da porta, que parecia ficar de olho na movimentação ao redor, do mesmo jeito que nossos amigos duvidosos. Naturalmente, uma pessoa com segredos e segundas intenções, que deve ser aproximada com bastante cautela e sem revelar suas verdadeiras intenções.
 
 Rorick, com a ajuda da coragem líquida em seu copo, puxou o papo mais aleatório possível. E entendam, não uso aleatório como hipérbole.
 
@@ -167,7 +167,7 @@ Não consegui nem rodar o mapa 90 graus pra poder ter pelo menos uma novidade. E
 
 Lillian viu uma cena similar à do assentamento norte (*não, não foi porque era o mesmo mapa ok?!*). Uma mistura de guardas, comerciantes e mal encarados. Um deles fez contato visual com ela e fez com a cabeça para que ela saísse da rua principal e se juntasse à eles, próxima da muralha.
 
-Lillian se aproximou, perguntando onde era a audiência. Aparentemente não era procedimento comum perguntar isso, então ele ficou meio confuso quando perguntado. No entanto, as instruções eram claras. Pediu para que a seguisse até saírem de vista dos guardas. Quando as árvores e a mata já era suficiente para que não pudesem vê-los da estrada, o homem foi direto:
+Lillian se aproximou, perguntando onde era a audiência. Aparentemente não era procedimento comum perguntar isso, então ele ficou meio confuso quando perguntado. No entanto, as instruções eram claras. Pediu para que a seguisse até saírem de vista dos guardas. Quando a mata já era suficiente para que não pudessem vê-los da estrada, o homem foi direto:
 
 *"Agora é só botar as costas na parede e fechar os olhos."*
 
@@ -203,7 +203,7 @@ Afinal, à noite a própria igreja faria seu ataque. Moveriam um grupo de fiéis
 
 Lillian ficou confusa. Por que escolheu o grupo dela para isso? E por que decidiu chamar justo ela para passar a mensagem?
 
-*"Não é todo dia que aparece um grupo que consegue acabar com os meus melhores homens! Vocês podem ter esquecido de mim depois desse ano, mas eu não me esqueci de vocês... mas não se preocupem! Aguas passadas. E bom, você e eu trabalhamos no mesmo ramo. É mais fácil contatá-la. Alem do mais, não acho que sua amiga aasimar ia aceitar bem a informação que acabei de te passar."*
+*"Não é todo dia que aparece um grupo que consegue acabar com os meus melhores homens! Vocês podem ter esquecido de mim depois desse ano, mas eu não me esqueci de vocês... mas não se preocupem! Águas passadas. E bom, você e eu trabalhamos no mesmo ramo. É mais fácil contatá-la. Alem do mais, não acho que sua amiga aasimar ia aceitar bem a informação que acabei de te passar."*
 
 Gideon não acreditava que Deiros cairia perante o ataque dos fiéis de Hedone. *"Eles são mais do que capazes de se defenderem. A sua amiga não tem o que se preocupar."*.
 
