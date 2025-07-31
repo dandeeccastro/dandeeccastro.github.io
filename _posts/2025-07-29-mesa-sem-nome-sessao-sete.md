@@ -5,7 +5,7 @@ subtitle: "O retorno não só da mesa, mas de outra coisa..."
 tags: dnd
 ---
 
-Bom dia meus queridos, queridas e querides! Sejam bem vindos à mais um diário de mestre, de volta do nosso mais do que longo hiato! Vocês tavam com saudade? Eu tava!
+Bom dia meus queridos, queridas e querides! Sejam bem vindos a mais um diário de mestre, de volta do nosso mais do que longo hiato! Vocês tavam com saudade? Eu tava!
 
 Infelizmente não foi um recomeço com todos presentes, mas imprevistos acontecem e tá tudo bem. O importante é que tinha o quórum mínimo de quatro pessoas para a sessão rolar e que a jogadora cujo arco tá relacionado diretamente tá presente.
 
@@ -13,11 +13,11 @@ Mas, antes de começar os relatos do que aconteceu com nossos aventureiros, quer
 
 # Owlbear Rodeo
 
-Vocês podem não lembrar, afinal o diário de um mestre completamente tomou esse blog, mas eu antes escrevia alguns artigos técnicos, como um bom mano de TI que sou. Eu tenho um interesse genuino em boa tecnologia e as vezes eu tenho meus momentos nerd de ficar obsessivo com alguns detalhes técnidos de algum software. Imaginem minha surpresa quando, numa das mesas que jogo como player, me foi apresentado um sistema de VTT simples, performático e com um design elegante pra ser usado durante um combate.
+Vocês podem não lembrar, afinal o diário de um mestre completamente tomou esse blog, mas eu antes escrevia alguns artigos técnicos, como um bom mano de TI que sou. Eu tenho um interesse genuíno em boa tecnologia e ás vezes eu tenho meus momentos nerd de ficar obsessivo com detalhes técnicos de softwares. Imaginem minha surpresa quando, numa das mesas que jogo como player, me foi apresentado um sistema de VTT simples, performático e com um design elegante pra ser usado durante um combate.
 
 Essa foi minha introdução ao [Owlbear](https://owlbear.rodeo).
 
-Fiquei obcecado! Cai em cima do YouTube deles pesquisando não só sobre como eles funcionavam, mas como eles fizeram um sisteminha tão eficiente. Tive experiências no DiceRight, que achei um tanto quanto travado e lento, e no Roll20, que é bem eficiente, embora um tanto quanto confuso em termos de UI, mas o Owlbear me surpreendeu positivamente quando comparado com esses dois. Ele tem um propósito muito claro de ser um tabuleiro virtual eficiente acima de tudo. Ele permite rolagem de dado, colocação de tokens e um sistema bem eficiente de fog of war, mas não tem as conveniências de gerenciamento de ficha que o Roll20 tem.
+Fiquei obcecado! Caí em cima do YouTube deles pesquisando não só sobre como eles funcionavam, mas como eles fizeram um sisteminha tão eficiente. Tive experiências no DiceRight, que achei um tanto quanto travado e lento, e no Roll20, que é bem eficiente, embora um tanto quanto confuso em termos de UI, mas o Owlbear me surpreendeu positivamente quando comparado com esses dois. Ele tem um propósito muito claro de ser um tabuleiro virtual eficiente acima de tudo. Ele permite rolagem de dado, colocação de tokens e um sistema bem eficiente de fog of war, mas não tem as conveniências de gerenciamento de ficha que o Roll20 tem.
 
 Ademais, estava fascinado. Decidi que quando a mesa voltasse, testariamos o Owlbear pra ver o que a galera acha. Então tenham em mente que essa sessão, além do retorno, foi um grande teste de um dos melhores VTTs que eu já tive a experiência de usar. Vou entrar em mais detalhes na conclusão sobre meu review do primeiro uso como mestre.
 
@@ -25,13 +25,13 @@ Dito isso, onde paramos mesmo? Ah é, foi cada um pro seu canto, mas depois eles
 
 # Taverna de Elphora
 
-Rorick não podia estar mais feliz. Nem mais bêbado! Estabelecemos que ele é um beberrão à essa altura e ele abraçou o personagem, decidindo que estaria de bruços na mesa, rolando um d20 pra ver se ia continuar dormindo (10 pra cima) ou levantar a cabeça.
+Rorick não podia estar mais feliz. Nem mais bêbado! Estabelecemos que ele é um beberrão a essa altura e ele abraçou o personagem, decidindo que estaria de bruços na mesa, rolando um d20 pra ver se ia continuar dormindo (10 pra cima) ou levantar a cabeça.
 
 Enquanto isso, todo mundo estava se atualizando do que aconteceu. Gepeto não tinha muito a reportar, mas Lari contou suas experiências nada ideais com Akravati, o padre com desilusões de grandiosidade. A party não sabia muito como lidar com o problema do padre até que Lillian apareceu no bar, esbaforida.
 
 Ela não demorou pra relatar o que aconteceu (embora o seu familiar humano tenha bugado no Discord na hora da narração). Gideon estava recrutando eles para um ataque à Hedone nessa noite. O problema? O ataque seria de oportunidade! Oportunidade essa mediante o fato deles deixarem que os seguidores de Hedone pretendiam atacar Deiros.
 
-Lari, compreensívelmente, deu um surto. Como assim deixar Deiros ser atacada? Ela conhecia Deiros, sabia que, embora a ordem de clérigos de Aureus não fossem descartáveis, não eram capazes de sobreviver um ataque de grande escala. 
+Lari, compreensivelmente, deu um surto. Como assim deixar Deiros ser atacada? Ela conhecia Deiros, sabia que, embora a ordem de clérigos de Aureus não fossem descartáveis, não eram capazes de sobreviver um ataque de grande escala. 
 
 Mas qual era a escala real dos seguidores de Hedone? O que eles eram capazes? Eles podiam se dar o luxo de confiar nas defesas de Deiros e aproveitar a oportunidade?
 
@@ -99,7 +99,7 @@ Silêncio.
 
 A estrada que dava para o vilarejo de Lari era minimamente movimentada, com comerciantes procurando negócio com moradores do vilarejo no meio termo que era a estrada por entre a mata alta, então ver a ausência de qualquer alma por perto era um tanto quanto assustador. O sentimento de que o tempo tinha levado embora a familiaridade que nosso grupo tinha com o mundo era estarrecedora, especialmente para nossa clériga.
 
-E aqui que a gente acidentalmente quebra um pouco a quarta parede. Eu puxei as fichas de geral do roll20 para outro sistema, mas esqueci que não peguei a percepção passiva. Quando perguntei qual era o valor desse status pra minha party, digamos que eles ficaram... tensos.
+E é aqui que a gente acidentalmente quebra um pouco a quarta parede. Eu puxei as fichas de geral do roll20 para outro sistema, mas esqueci que não peguei a percepção passiva. Quando perguntei qual era o valor desse status pra minha party, digamos que eles ficaram... tensos.
 
 Lillian pediu um teste de percepção para ver se conseguia perceber algo de estranho, já que Lari comunicou pra galera a estranheza do momento. Com um bem rolado 18, não tive como não esconder dela um pequeno mínimo ridículo esdrúxulo descartável detalhe que estava na estrada à frente para quem conseguisse ver.
 
