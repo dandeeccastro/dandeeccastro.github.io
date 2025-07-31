@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Diário de um Mestre #7:"
-subtitle: ""
+title: "Diário de um Mestre #7: O retorno"
+subtitle: "O retorno não só da mesa, mas de outra coisa..."
 tags: dnd
 ---
 
