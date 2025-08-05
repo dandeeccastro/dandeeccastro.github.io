@@ -13,7 +13,7 @@ Mas, antes de começar os relatos do que aconteceu com nossos aventureiros, quer
 
 # Owlbear Rodeo
 
-Vocês podem não lembrar, afinal o diário de um mestre completamente tomou esse blog, mas eu antes escrevia alguns artigos técnicos, como um bom mano de TI que sou. Eu tenho um interesse genuíno em boa tecnologia e ás vezes eu tenho meus momentos nerd de ficar obsessivo com detalhes técnicos de softwares. Imaginem minha surpresa quando, numa das mesas que jogo como player, me foi apresentado um sistema de VTT simples, performático e com um design elegante pra ser usado durante um combate.
+Vocês podem não lembrar, afinal o diário de um mestre completamente tomou esse blog, mas eu antes escrevia alguns artigos técnicos, como um bom mano de TI que sou. Eu tenho um interesse genuíno em boa tecnologia e às vezes eu tenho meus momentos nerd de ficar obsessivo com detalhes técnicos de softwares. Imaginem minha surpresa quando, numa das mesas que jogo como player, fui apresentado a um sistema de VTT simples, performático e com um design elegante pra ser usado durante um combate.
 
 Essa foi minha introdução ao [Owlbear](https://owlbear.rodeo).
 
@@ -49,15 +49,15 @@ Aqui o owlbear brilhou. Ou pelo menos eu brilhei com ele. O mapa que eu uso para
 
 No roll20 eu não consigo rodar esse mapa por nada na minha vida. No owlbear, foi tão rápido que quase chorei de felicidade. Sério gente, software bom é outra coisa.
 
-Chegando no assentamento, a muvuca de sempre. Mercadores esperando liberação pra entrar, guardas nos portões e pessoas mal encaradas vagabundeando pelos arredores. Para além disso, haviam civis rodeando no exterior, o que era incomum.
+Chegando no assentamento, a muvuca de sempre. Mercadores esperando liberação pra entrar, guardas nos portões e pessoas mal encaradas vagabundeando pelos arredores. Para além disso, havia civis rodeando no exterior, o que era incomum.
 
 Mas nada que abalasse nossos heróis. O grupo seguiu andando, mesmo quando esse mesmo grupo de civis tentou fechar o caminho deles. Alguns perguntavam pra onde eles estavam indo, outros os encaravam feio, mas nenhum deles quis ter problema com um Rorick poucas ideias, que já tinha desembainhado seu martelo de guerra.
 
-Enquanto isso acontecia, Lillian fazia seu detour, procurando um dos homens de Gideon para contar que não acataria com seus planos e seguiria seu próprio caminho. Não teve dificuldade para encontrá-los no assentamento, mas tentar contato foi surpreendentemente difícil. Para olhos treinados, nada estava acontecendo ali, mas Lillian conseguia perceber um diálogo extenso entre os capangas do Punho de Ferro.
+Enquanto isso acontecia, Lillian fazia seu detour, procurando um dos homens de Gideon para contar que não participaria de planos e seguiria seu próprio caminho. Não teve dificuldade para encontrá-los no assentamento, mas tentar contato foi surpreendentemente difícil. Para olhos treinados, nada estava acontecendo ali, mas Lillian conseguia perceber um diálogo extenso entre os capangas do Punho de Ferro.
 
 Eles pareciam estar listando uma série de lugares de Elphora, seguidos de negativas. Assentamento norte? Não. Sudeste? Não. Sudoeste. Também não. Nem na taverna, muito menos no mercado central. Lillian não conseguiu acompanhar mais o diálogo pois, embora ela não o tivesse visto (mais uma vítima de dados ruins), ele conseguiu vê-la.
 
-Um homem, o que a ajudara a encontrar Gideon na sessão passada, a reconheceu. Com um sinal, chamou-a para um canto afastado do resto do grupo. Lillian, sem preocupação sobre um possível sequestro relâmpago, foi sem hesitar de encontro ao capanga.
+Um homem, aquele que a ajudara a encontrar Gideon na sessão passada, a reconheceu. Com um sinal, chamou-a para um canto afastado do resto do grupo. Lillian, sem preocupação sobre um possível sequestro relâmpago, foi encontrá-lo sem hesitação.
 
 Ele parecia apreensivo, o que nunca é um sinal bom. Certificou-se que estavam sozinhos e já começou o interrogatório:
 
@@ -109,13 +109,13 @@ Nosso grupo de heróis começou uma lenta caminhada pela estrada, atentos à arm
 
 **20 natural**.
 
-É gente, ele não só viu que haviam duas armadilhas, uma em cada caminho, como também conseguiu ouvir o barulho de *uma delas sendo armada* naquele momento. Queria descobrir quem era. Abandonou o grupo e rolou stealth para tentar se aproximar da criatura que a preparava.
+É gente, ele não só viu que havia duas armadilhas, uma em cada caminho, como também conseguiu ouvir o barulho de *uma delas sendo armada* naquele momento. Queria descobrir quem era. Abandonou o grupo e rolou stealth para tentar se aproximar da criatura que a preparava.
 
 **Outro 20.** Mas foi um 20... sujo?
 
 20 no total. Com os modificadores e tal. Isso.
 
-Se esgueirou pela mata alta, se aproveitando da baixa estatura de anão, e deu de cara com uma mulher. Aasimar, pelo que parecia, com cabelos loiros ondulados, completamente compenetrada em amarrar a corda e engatilhar a armadilha.
+Se esgueirou pela mata alta, tirando proveito de sua baixa estatura de anão, e deu de cara com uma mulher. Aasimar, pelo que parecia, com cabelos loiros ondulados, completamente compenetrada em amarrar a corda e engatilhar a armadilha.
 
 Ele a tinha encontrado! Quem quer que fosse. Tinha que avisar o grupo! Mas como fazê-lo sem alertar a mulher? Foi aí que Rorick tentou sua melhor expressão de linguagem de sinais, para nada mais nada menos que Gepeto, que tinha que rolar inteligência crua, com um modificador de -1 no resultado.
 
@@ -125,7 +125,7 @@ E Gepeto tirou um 9.
 
 Mas se vocês acharam que os encontros acabariam por aí, vocês estão mais do que enganados! Ou será que estão certos? Porque tecnicamente não é um encontro, mas um reencontro.
 
-No meio do mato alguém ouviu os passos da galera e as conversas avulsas de "desarma isso aí pelamordedeus". Não reconhecia as vozes. As ouvira um ano atrás, então como poderia? Também não importava, afinal, estavam desfazendo seu árduo trabalho! Tinha que fazer alguma coisa.
+No meio do mato alguém ouviu os passos da galera e as conversas avulsas de "desarma isso aí pelamordedeus". Não reconhecia as vozes. Eram vozes de um ano atrás, como poderia? Também não importava, afinal, estavam desfazendo seu árduo trabalho! Tinha que fazer alguma coisa.
 
 Da mata alta, brandindo uma espada velha mas agora afiada e caminhando com dificuldade devido à perna de pau, saiu, gritando, ninguém menos do que Clayton.
 
@@ -181,7 +181,7 @@ E finalmente eu vou poder parar de ficar confundindo Lari e Lillian! Foi uma ses
 
 Os dois foram de encontro um ao outro. Altair abraçou Polaris com toda a força que seu corpo esfomeado podia e, nesse abraço, ela sentiu uma lágrima molhar o ombro no qual ele repousava a cabeça. Foi sutil, uma confidência entre os dois. Ele desfez o abraço, ainda feliz de tê-la encontrado viva, e os dois botaram o papo em dia.
 
-E papo não faltou. Altair confirmou o que Clayton tinha dito: eles estavam sendo alvo da igreja de Hedone, at́e que o aventureiro aposentado apareceu junto com Erida numa tentativa de ajudar o vilarejo. Juntos, começaram a evacuação e a abertura do caminho pela floresta. No entanto, perceberam que não teriam tempo de esvaziar Deiros antes que os seguidores de Hedone atacassem. Foi aí que Clayton, junto com os paladinos da ordem de Aureus, decidiram que fariam sua última resistência, para garantir que o máximo de sobreviventes conseguissem escapar.
+E papo não faltou. Altair confirmou o que Clayton tinha dito: eles estavam sendo alvo da igreja de Hedone, até que o aventureiro aposentado apareceu junto com Erida numa tentativa de ajudar o vilarejo. Juntos, começaram a evacuação e a abertura do caminho pela floresta. No entanto, perceberam que não teriam tempo de esvaziar Deiros antes que os seguidores de Hedone atacassem. Foi aí que Clayton, junto com os paladinos da ordem de Aureus, decidiram que fariam sua última resistência, para garantir que o máximo de sobreviventes conseguissem escapar.
 
 Altair confessou que o desespero da situação pode ter influenciado sua decisão de aceitar a proposta de Clayton e Erida, mas que ainda acreditava que era o melhor plano que tinham. Deiros poderia ser reconstruída, mas seus habitantes não.
 
